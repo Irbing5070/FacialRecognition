@@ -1,0 +1,9 @@
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\obj\Debug\netstandard2.0\ReconocimientoFacial.csprojAssemblyReference.cache
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\obj\Debug\netstandard2.0\ReconocimientoFacial.csproj.CoreCompileInputs.cache
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\obj\Debug\netstandard2.0\ReconocimientoFacial.AssemblyInfoInputs.cache
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\obj\Debug\netstandard2.0\ReconocimientoFacial.AssemblyInfo.cs
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\netstandard2.0\ReconocimientoFacial.deps.json
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\netstandard2.0\ReconocimientoFacial.dll
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\netstandard2.0\ReconocimientoFacial.pdb
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\obj\Debug\netstandard2.0\ReconocimientoFacial.dll
+C:\Users\ESTADIAS\source\repos\ReconocimientoFacial\ReconocimientoFacial\ReconocimientoFacial\obj\Debug\netstandard2.0\ReconocimientoFacial.pdb
